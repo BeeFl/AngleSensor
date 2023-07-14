@@ -1,4 +1,0 @@
-".\Objects\angle.obj",
-".\Objects\PWMn.obj" 
-TO ".\Objects\Angle" 
-PRINT(".\Listings\Angle.m51") RAMSIZE(256) 
